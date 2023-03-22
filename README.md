@@ -52,13 +52,6 @@
   </ul>
 </details>
 
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://jlvflores.github.io/Math-magicians/dist/">GitHub Pages</a>*Not yet added*</li>
-  </ul>
-</details>
-
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
@@ -74,9 +67,9 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Here is a link to the demo project.
+> Here will be the link to the demo project.
 
-- With the use of [GitHub pages](https://jlvflores.github.io/Math-magicians/dist/). *Not yet added*
+- With the use of GitHub pages.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -110,7 +103,7 @@ To run tests, run the following command: `npm start`
 
 ### Deployment
 
-You can deploy this project using:  Using [GitHub pages](https://jlvflores.github.io/Math-magicians/dist/) *Not yet added*
+In the future you will be able to deploy this project:  Using GitHub pages.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
