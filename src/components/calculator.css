@@ -1,0 +1,35 @@
+.calc {
+  background-color: #858693;
+  width: 60%;
+}
+
+.result {
+  color: white;
+  text-align: end;
+  padding: 1rem;
+}
+
+.calc-keys {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1px;
+  justify-content: flex-end;
+}
+
+.calc-keys button {
+  width: calc((100% - 3px) / 4);
+  border: none;
+  height: 3rem;
+}
+
+.calc-keys button:hover {
+  cursor: pointer;
+}
+
+.right-most {
+  background-color: orange;
+}
+
+.wide {
+  min-width: calc((100% - 1px) / 2);
+}
