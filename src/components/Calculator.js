@@ -1,7 +1,7 @@
 import PropTypes from 'prop-types';
 import { useState } from 'react';
 import calculate from '../logic/calculate';
-import './calculator.css';
+import '../styles/calculator.css';
 
 const Calculator = () => {
   const btnArray = ['AC', '+/-', '%', '÷', '7', '8', '9', 'x', '4', '5', '6', '-', '1', '2', '3', '+', '0', '.', '='];
