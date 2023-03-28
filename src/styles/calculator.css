@@ -1,6 +1,17 @@
+.calc-page {
+  display: flex;
+  justify-content: space-between;
+}
+
+.calc-text {
+  display: flex;
+  font-size: 1.5rem;
+}
+
 .calc {
   background-color: #858693;
-  width: 60%;
+  width: 70%;
+  border: 1px solid #858693;
 }
 
 .result {
