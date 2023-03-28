@@ -18,15 +18,20 @@ const Calculator = () => {
   };
 
   return (
-    <div className="calc">
-      <div className="result">{result !== '' ? result : '0'}</div>
-      <div className="calc-keys">
-        <CalculatorButtons
-          btns={btnArray}
-          state={state}
-          setState={setState}
-          onClick={onEventHandler}
-        />
+    <div className="calc-page">
+      <div>
+        <p className="text-con calc-text">Let&apos;s do some math!</p>
+      </div>
+      <div className="calc">
+        <div className="result">{result !== '' ? result : '0'}</div>
+        <div className="calc-keys">
+          <CalculatorButtons
+            btns={btnArray}
+            state={state}
+            setState={setState}
+            onClick={onEventHandler}
+          />
+        </div>
       </div>
     </div>
   );

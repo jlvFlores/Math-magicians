@@ -1,4 +1,5 @@
 import { useEffect, useState } from 'react';
+import '../styles/quotes.css';
 
 const Quotes = () => {
   const [quote, setQuote] = useState({});
@@ -27,9 +28,8 @@ const Quotes = () => {
   if (isLoading) return <div>Loading, please wait...</div>;
 
   return (
-    <div>
-      <p>{quote.quote}</p>
-      <p>{`- ${quote.author}`}</p>
+    <div className="text-con quote">
+      <p>{`${quote.quote} -${quote.author}`}</p>
     </div>
   );
 };
