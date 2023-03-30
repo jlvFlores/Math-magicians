@@ -58,7 +58,7 @@
 
 > Description of some of the project's key features.
 
-- Basic setup for a react project.
+- Calculator and quotes pages.
 - Has working linters to encourage clean code. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -67,9 +67,9 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Here will be the link to the demo project.
+> Here is the link to the demo project.
 
-- With the use of GitHub pages.
+- With the use of [Render](https://math-magicians-pmud.onrender.com/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -103,7 +103,7 @@ To run tests, run the following command: `npm start`
 
 ### Deployment
 
-In the future you will be able to deploy this project:  Using GitHub pages.
+This proyect wes deployed with the use of: [Render](https://math-magicians-pmud.onrender.com/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
